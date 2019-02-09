@@ -5,6 +5,9 @@ Godot script editor.**
 
 Pre-generated themes are available in the `text_editor_themes/` directory.
 
+*Want high-quality, hand-tuned themes? Check out
+[godot-syntax-themes](https://github.com/Calinou/godot-syntax-themes).*
+
 ## Installation
 
 Place the `.tet` files contained in `text_editor_themes/` in your Godot
